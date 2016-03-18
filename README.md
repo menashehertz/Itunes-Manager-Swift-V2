@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Capstone
 
  My Favorite ITunes Songs and Albums
@@ -7,3 +8,6 @@ It saves the persons favorite albums and the songs within those albums that they
 The user has the ability to search for an album on iTunes. after selecting the album, all the songs of that album will appear and the user has the ability to delete whatever song ther are not interested in. They can then go into each song  rate it, review it, and hear. 
  
 They can also delete any albums that they have already saved and are no longer interested in.
+=======
+# Itunes-Manager-SwiftV2
+>>>>>>> 6cd04e50005214f4dde9e25ce31f91fb9cdcc00b
