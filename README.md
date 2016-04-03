@@ -1,13 +1,9 @@
 <<<<<<< HEAD
 # Capstone
 
- My Favorite ITunes Songs and Albums
- 
-It saves the persons favorite albums and the songs within those albums that they like.  It also allows the user to rate the song and write feelings about the song.  In order be able to write a review of the song the app gives the ability tohear song they are about to review.
+An app that saves the usersfavorite albums and the songs within those albums. It also allows the user to rate the song and write feelings about the song. The app gives the user the ability   to hear listen to a clip of a song that they are about to review.
+The user has the ability to search for an album on iTunes. After selecting the album, all the songs of that album will appear and the user has then can remove songs which are of no interest. They can also delete any albums that they have already saved and are no longer interested in.
 
-The user has the ability to search for an album on iTunes. after selecting the album, all the songs of that album will appear and the user has the ability to delete whatever song ther are not interested in. They can then go into each song  rate it, review it, and hear. 
- 
-They can also delete any albums that they have already saved and are no longer interested in.
 =======
 # Itunes-Manager-SwiftV2
 >>>>>>> 6cd04e50005214f4dde9e25ce31f91fb9cdcc00b
